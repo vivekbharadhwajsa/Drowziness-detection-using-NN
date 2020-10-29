@@ -11,4 +11,4 @@ Further extension can be the yawn detection along with the drowziness detection
 (This project does not use the Eye Aspect Ratio(EAR) in order to detect drowziness. The file extension for drowziness detection using EAR will be added later)
 
 
-Softwares: Python, OpenCV, pandas, Keras, haar cascade
+**Softwares: Python, OpenCV, pandas, Keras, haar cascade and Jupyter Notebook**
