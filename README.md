@@ -7,13 +7,13 @@ This project deals with training a neural network to detect the state of the eye
 
 - The model weights is then used to predict the eye state in real-time on the images captured from the webcam using OpenCV
 
-- Face_detection_EAR.py contains the drowziness detection algorithm based on Eye Aspect Ratio (EAR). This is based on the paper which can be found at https://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf
+- **Face_detection_EAR.py** contains the drowziness detection algorithm based on Eye Aspect Ratio (EAR). This is based on the paper which can be found at https://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf
 
 Further extension can be the yawn detection along with the drowziness detection
 
-Face_recognition.ipynb contains all the code put together. (faec_recog(5).ipynb) is the notebook downloaded after the training done on Google Colab.  
+**Face_recognition.ipynb** contains all the code put together. (faec_recog(5).ipynb) is the notebook downloaded after the training done on Google Colab.  
 
-results_new.txt file contains model predictions along with the actual label put together as a tuple in the format (Model prediction, Actual label) for all the images in Test data.
+**results_new.txt** file contains model predictions along with the actual label put together as a tuple in the format (Model prediction, Actual label) for all the images in Test data.
 
 
-**Softwares: Python, OpenCV, pandas, Keras, haar cascade and Jupyter Notebook**
+**Softwares and tools**: __Python, OpenCV, pandas, Keras, haar cascade and Jupyter Notebook__
