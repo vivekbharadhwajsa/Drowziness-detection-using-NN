@@ -16,4 +16,4 @@ Further extension can be the yawn detection along with the drowziness detection
 **results_new.txt** file contains model predictions along with the actual label put together as a tuple in the format (Model prediction, Actual label) for all the images in Test data.
 
 
-**Softwares and tools**: __Python, OpenCV, pandas, Keras, haar cascade and Jupyter Notebook__
+**Softwares and tools**: **_Python, OpenCV, pandas, Keras, haar cascade and Jupyter Notebook_**
